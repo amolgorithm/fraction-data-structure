@@ -1,0 +1,6 @@
+﻿  Fraction.cpp
+  Main.cpp
+  Generating Code...
+c:\data\amol\programming\cpp\fraction\fraction\fraction.cpp(65): warning C4172: returning address of local variable or temporary: terms
+c:\data\amol\programming\cpp\fraction\fraction\fraction.cpp(97): warning C4172: returning address of local variable or temporary: simplifiedTerms
+  Fraction.vcxproj -> C:\Data\Amol\Programming\Cpp\Fraction\Debug\Fraction.exe
